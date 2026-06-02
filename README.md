@@ -1,24 +1,127 @@
-# 💫 About Me:
-CSE Undergrad and a Backend Web Developer.<br>Focusing on MERN.
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:1E293B,100:0EA5E9&text=Vaibhav%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.vaibhavvvvvvv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhavvvvvv) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/06vaibhavvvvvvv) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_vaibhavvvvvv) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaibhavsingh9301@gmail.com) 
+<br>
 
-# 💻 Tech Stack:
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vaibhavcodes-ARC&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vaibhavcodes-ARC&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavcodes-ARC&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=100&color=38BDF8&center=true&vCenter=true&width=1000&lines=Backend;MERN+Stack;Python;React;Next.js;Node.js;Express.js;MongoDB;MySQL;Django;FastAPI;Flask;Docker;Arduino;Axios;Always+Learning+New+Technologies+🚀"/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vaibhavcodes-ARC&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+<br>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://komarev.com/ghpvc/?username=vaibhavcodes-ARC&label=PROFILE+VIEWS&style=for-the-badge&color=0ea5e9"/>
+
+<img src="https://img.shields.io/github/followers/vaibhavcodes-ARC?style=for-the-badge&logo=github&color=38bdf8"/>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vaibhavcodes-ARC&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me
+
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+- 🎓 CSE Undergraduate
+- 💻 Full-Stack Developer
+- 🚀 Currently Building **G-Mart B2B Marketplace**
+- 🌱 Learning **Next.js, Docker & System Design**
+- ☁️ Interested in **Cloud Computing & DevOps**
+- 🤖 Arduino & Electronics Enthusiast
+- ⚡ Passionate about building scalable applications
+- 🎯 Always exploring new technologies
+
+<br clear="right"/>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/vaibhavvvvvv/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://www.instagram.com/_.vaibhavvvvvv/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
+
+<a href="mailto:vaibhavsingh9301@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
+
+---
+
+# ⚙️ Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,react,nextjs,typescript,nodejs,express,mongodb,mysql,docker,git,github,tailwind,html,css,js,powershell,vscode,arduino&perline=6"/>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vaibhavcodes-ARC&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavcodes-ARC&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="75%" src="https://streak-stats.demolab.com?user=vaibhavcodes-ARC&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavcodes-ARC&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🚀 Current Focus
+
+```javascript
+const vaibhav = {
+    role: "Backend Developer",
+
+    currentlyBuilding: [
+        "G-Mart B2B Marketplace"
+    ],
+
+    currentlyLearning: [
+        "Next.js",
+        "System Design",
+        "Docker",
+        "Cloud Computing"
+    ],
+
+    techStack: [
+        "React",
+        "Next.js",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "MySQL",
+        "Python",
+        "Django",
+        "FastAPI",
+        "Flask"
+    ],
+
+    openToCollaborate: true
+}
